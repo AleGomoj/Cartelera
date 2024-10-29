@@ -1,0 +1,94 @@
+{
+    "documentaries": [
+        {
+            "id": 1,
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDcyZDdiYzMtM2MzYi00MzE2LWFhNmMtNmE2ZTVhYjAxOTc4XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg",
+            "title": "My Octopus Teacher",
+            "year": "2020",
+            "length": "1h 25m",
+            "director": "Pippa Ehrlicj, James Reed",
+            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+        },
+        {
+            "id": 2,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTQ2Mzc0NF5BMl5BanBnXkFtZTcwMjQyNzI3Mw@@._V1_.jpg",
+            "title": "13th",
+            "year": "2016",
+            "length": "1h 40m",
+            "director": "Ava DuVernay",
+            "synopsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality."
+        },
+        {
+            "id": 3,
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzg2NzYzODkwNF5BMl5BanBnXkFtZTgwMjM0NzU1MDE@._V1_.jpg",
+            "title": "Won't You Be My Neighbor?",
+            "year": "2018",
+            "length": "1h 34m",
+            "director": "Morgan Neville",
+            "synopsis": "An exploration of the life and legacy of Fred Rogers, the beloved host of the popular children's TV show 'Mister Rogers' Neighborhood.'"
+        },
+        {
+            "id": 4,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDY5MjY2MjY5OV5BMl5BanBnXkFtZTgwMzM2MzU1MDE@._V1_.jpg",
+            "title": "Jiro Dreams of Sushi",
+            "year": "2011",
+            "length": "1h 22m",
+            "director": "David Gelb",
+            "synopsis": "The story of Jiro Ono, an 85-year-old sushi master and his renowned Tokyo-based restaurant."
+        },
+        {
+            "id": 5,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MDk4MjEyNV5BMl5BanBnXkFtZTgwMDE0MzU1MDE@._V1_.jpg",
+            "title": "The Act of Killing",
+            "year": "2012",
+            "length": "1h 59m",
+            "director": "Joshua Oppenheimer",
+            "synopsis": "A documentary that challenges former Indonesian death squad leaders to reenact their real-life mass killings."
+        },
+        {
+            "id": 6,
+            "poster": "https://m.media-amazon.com/images/M/MV5BNjExNTI4MDIwMV5BMl5BanBnXkFtZTgwNzA4MTU5MDE@._V1_.jpg",
+            "title": "Free Solo",
+            "year": "2018",
+            "length": "1h 40m",
+            "director": "Elizabeth Chai Vasarhelyi, Jimmy Chin",
+            "synopsis": "The film follows rock climber Alex Honnold as he attempts to climb El Capitan without ropes."
+        },
+        {
+            "id": 7,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MjM1MzU3N15BMl5BanBnXkFtZTcwMjE2NjA3Mw@@._V1_.jpg",
+            "title": "Blackfish",
+            "year": "2013",
+            "length": "1h 23m",
+            "director": "Gabriela Cowperthwaite",
+            "synopsis": "A documentary about the captivity of killer whales and the dangers it poses to both the animals and trainers."
+        },
+        {
+            "id": 8,
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzE3NjM3Njg2NF5BMl5BanBnXkFtZTgwMTk4MTI1MDE@._V1_.jpg",
+            "title": "Planet Earth II",
+            "year": "2016",
+            "length": "1h 5m per episode",
+            "director": "David Attenborough",
+            "synopsis": "A sequel to the original series that takes viewers on a breathtaking journey across the globe to explore wildlife in various habitats."
+        },
+        {
+            "id": 9,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMjA1NjE1Ml5BMl5BanBnXkFtZTgwMDE0MzU1MDE@._V1_.jpg",
+            "title": "The Social Dilemma",
+            "year": "2020",
+            "length": "1h 34m",
+            "director": "Jeff Orlowski",
+            "synopsis": "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations."
+        },
+        {
+            "id": 10,
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjA1MTM3MV5BMl5BanBnXkFtZTgwNzA4MTU5MDE@._V1_.jpg",
+            "title": "Icarus",
+            "year": "2017",
+            "length": "2h 1m",
+            "director": "Bryan Fogel",
+            "synopsis": "A filmmaker's quest to uncover the truth about doping in sports leads to a scandal involving the Russian Olympic team."
+        }
+    ]
+}
