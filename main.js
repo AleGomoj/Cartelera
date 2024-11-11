@@ -19,13 +19,14 @@ fetchMoviesJson().then(movies => {
         let length = movies.documentaries[i].length;
         let director = movies.documentaries[i].director;
         let synopsis = movies.documentaries[i].synopsis;
+        let link = movies.documentaries[i].link;
 
         moviesSection.innerHTML += `<div class="card" style="width: 18rem;">
         <img src="${poster}" class="card-img-top" alt="...">
         <div class="card-body">
         <h5 class="card-title">${title}</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <p class="card-text">${synopsis}</p>
+        <a href="${link}" class="btn btn-primary">More Info</a>
         </div>
         </div>`
     }

@@ -7,7 +7,8 @@
             "year": "2020",
             "length": "1h 25m",
             "director": "Pippa Ehrlich, James Reed",
-            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world.",
+            "link": "https://en.wikipedia.org/wiki/My_Octopus_Teacher"
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "year": "2016",
             "length": "1h 40m",
             "director": "Ava DuVernay",
-            "synopsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality."
+            "synopsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+            "link": "https://en.wikipedia.org/wiki/Enmienda_XIII"
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "year": "2018",
             "length": "1h 34m",
             "director": "Morgan Neville",
-            "synopsis": "An exploration of the life and legacy of Fred Rogers, the beloved host of the popular children's TV show 'Mister Rogers' Neighborhood.'"
+            "synopsis": "An exploration of the life and legacy of Fred Rogers, the beloved host of the popular children's TV show 'Mister Rogers' Neighborhood.'",
+            "link": "https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F"
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "year": "2011",
             "length": "1h 22m",
             "director": "David Gelb",
-            "synopsis": "The story of Jiro Ono, an 85-year-old sushi master and his renowned Tokyo-based restaurant."
+            "synopsis": "The story of Jiro Ono, an 85-year-old sushi master and his renowned Tokyo-based restaurant.",
+            "link": "https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi"
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "year": "2012",
             "length": "1h 59m",
             "director": "Joshua Oppenheimer",
-            "synopsis": "A documentary that challenges former Indonesian death squad leaders to reenact their real-life mass killings."
+            "synopsis": "A documentary that challenges former Indonesian death squad leaders to reenact their real-life mass killings.",
+            "link": "https://en.wikipedia.org/wiki/The_Act_of_Killing"
         },
         {
             "id": 6,
@@ -52,7 +57,8 @@
             "year": "2018",
             "length": "1h 40m",
             "director": "Elizabeth Chai Vasarhelyi, Jimmy Chin",
-            "synopsis": "The film follows rock climber Alex Honnold as he attempts to climb El Capitan without ropes."
+            "synopsis": "The film follows rock climber Alex Honnold as he attempts to climb El Capitan without ropes.",
+            "link": "https://en.wikipedia.org/wiki/Free_Solo"
         },
         {
             "id": 7,
@@ -61,7 +67,8 @@
             "year": "2013",
             "length": "1h 23m",
             "director": "Gabriela Cowperthwaite",
-            "synopsis": "A documentary about the captivity of killer whales and the dangers it poses to both the animals and trainers."
+            "synopsis": "A documentary about the captivity of killer whales and the dangers it poses to both the animals and trainers.",
+            "link": "https://en.wikipedia.org/wiki/Blackfish"
         },
         {
             "id": 8,
@@ -70,7 +77,8 @@
             "year": "2016",
             "length": "1h 5m per episode",
             "director": "David Attenborough",
-            "synopsis": "A sequel to the original series that takes viewers on a breathtaking journey across the globe to explore wildlife in various habitats."
+            "synopsis": "A sequel to the original series that takes viewers on a breathtaking journey across the globe to explore wildlife in various habitats.",
+            "link": "https://en.wikipedia.org/wiki/Planeta_Tierra_II"
         },
         {
             "id": 9,
@@ -79,7 +87,8 @@
             "year": "2020",
             "length": "1h 34m",
             "director": "Jeff Orlowski",
-            "synopsis": "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations."
+            "synopsis": "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+            "link": "https://es.wikipedia.org/wiki/El_dilema_de_las_redes_sociales"
         },
         {
             "id": 10,
@@ -88,7 +97,8 @@
             "year": "2017",
             "length": "2h 1m",
             "director": "Bryan Fogel",
-            "synopsis": "A filmmaker's quest to uncover the truth about doping in sports leads to a scandal involving the Russian Olympic team."
+            "synopsis": "A filmmaker's quest to uncover the truth about doping in sports leads to a scandal involving the Russian Olympic team.",
+            "link": "https://es.wikipedia.org/wiki/%C3%8Dcaro_(documental)"
         }
     ]
 }
